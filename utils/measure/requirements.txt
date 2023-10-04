@@ -37,7 +37,7 @@ opencv-python==4.5.5.64
 packaging==21.3
 pathspec==0.9.0
 phue==1.1
-Pillow==9.1.0
+Pillow==10.0.1
 platformdirs==2.5.2
 prompt-toolkit==1.0.14
 pycares==4.2.2
